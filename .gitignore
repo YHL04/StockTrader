@@ -1,3 +1,5 @@
 venv
 backup
+.idea
+_pycache_
 config.py
